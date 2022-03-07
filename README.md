@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects through my Data Science Masters program
-- 🌱 I’m currently learning to be a Data Scientist and be better at Python
-- 👯 I’m looking to collaborate on new ways of using ML algorithm. I am facinated with unstrctured data.
-- 🤔 I’m looking for help with learning more about AI/Machine Learning
+- 🔭 I’m currently looking to collaborate on Data Science and Data Engineering projects.
+- 🌱 I’m currently trying to learn more about Data Engineering. 
+- 🤔 I’m looking for help with learning more about unstructured data.
 - 💬 Ask me about Digital Marketing Analytics/ R/ Python
 - 📫 How to reach me: ball.prianka@gmail.com OR [LinkedIn](https://www.linkedin.com/in/priankaball/)
 - 😄 Pronouns: she/her
