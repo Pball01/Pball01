@@ -6,4 +6,4 @@
 - 💬 Ask me about Digital Marketing Analytics/ R/ Python
 - 📫 How to reach me: ball.prianka@gmail.com OR [LinkedIn](https://www.linkedin.com/in/priankaball/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I an entreprenure at heart who loves to create new things. I am cat and plant mom on the side.
+- ⚡ Fun fact: I am entrepreneur at heart who loves to create new things. I am cat and plant mom on the side.
